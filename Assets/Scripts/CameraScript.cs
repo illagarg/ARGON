@@ -23,6 +23,7 @@ public class CameraScript : MonoBehaviour
         if (Physics.Raycast(transform.position, lookingDirection, out hit))
         {
             Debug.DrawLine(transform.position, hit.point, Color.green);
+            hit.collider.gameObject.GetComponent<ButtonScript>().selected();
         }
     }
 }

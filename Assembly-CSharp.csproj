@@ -151,7 +151,9 @@
     <Compile Include="Assets\MagicLeap\Examples\Scripts\Visualizers\VideoCaptureVisualizer.cs" />
     <Compile Include="Assets\MagicLeap\Examples\Scripts\WorldScaleExample.cs" />
     <Compile Include="Assets\MagicLeap\Scripts\MLVersion.cs" />
+    <Compile Include="Assets\Scripts\ButtonScript.cs" />
     <Compile Include="Assets\Scripts\CameraScript.cs" />
+    <Compile Include="Assets\Scripts\GestureScript.cs" />
     <None Include="Assets\MagicLeap\BackgroundMusicExample\readme.txt" />
     <None Include="Assets\MagicLeap\Examples\Shaders\PointCloud.shader" />
     <None Include="Assets\MagicLeap\Examples\Documentation\MusicService.txt" />
@@ -189,43 +191,43 @@
     <None Include="Assets\MagicLeap\Examples\Models\Controller\Shaders\ControllerDepthMask.shader" />
     <None Include="Assets\MagicLeap\Examples\Documentation\ImageTracking.txt" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3/Argon/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3 /Argon/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.XR.MagicLeap">
-      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3/Argon/Library/ScriptAssemblies/UnityEditor.XR.MagicLeap.dll</HintPath>
+      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3 /Argon/Library/ScriptAssemblies/UnityEditor.XR.MagicLeap.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3/Argon/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3 /Argon/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3/Argon/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3 /Argon/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3/Argon/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3 /Argon/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3/Argon/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3 /Argon/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3/Argon/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3 /Argon/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
-      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3/Argon/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3 /Argon/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
-      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3/Argon/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3 /Argon/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3/Argon/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3 /Argon/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3/Argon/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3 /Argon/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
-      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3/Argon/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3 /Argon/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.MagicLeap">
-      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3/Argon/Library/ScriptAssemblies/UnityEngine.XR.MagicLeap.dll</HintPath>
+      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3 /Argon/Library/ScriptAssemblies/UnityEngine.XR.MagicLeap.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Hub/Editor/2019.1.0f2/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -408,22 +410,22 @@
       <HintPath>/Applications/Unity/Hub/Editor/2019.1.0f2/Unity.app/Contents/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="MSA.Runtime">
-      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3/Argon/Assets/MagicLeap/Soundfield/MSA.Runtime.dll</HintPath>
+      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3 /Argon/Assets/MagicLeap/Soundfield/MSA.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="LuminMediaPlayer">
-      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3/Argon/Assets/MagicLeap/Libs/LuminMediaPlayer.dll</HintPath>
+      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3 /Argon/Assets/MagicLeap/Libs/LuminMediaPlayer.dll</HintPath>
     </Reference>
     <Reference Include="LuminUnity">
-      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3/Argon/Assets/MagicLeap/Libs/LuminUnity.dll</HintPath>
+      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3 /Argon/Assets/MagicLeap/Libs/LuminUnity.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3/Argon/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3 /Argon/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3/Argon/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3 /Argon/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3/Argon/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>/Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment 3 /Argon/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>/Applications/Unity/Hub/Editor/2019.1.0f2/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
