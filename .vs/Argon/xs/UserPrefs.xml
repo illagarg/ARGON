@@ -1,9 +1,12 @@
 ﻿<Properties StartupConfiguration="{18A2B8FC-7FB8-F811-80AC-92A04B99830F}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ButtonScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ControllerScript.cs">
     <Files>
-      <File FileName="Assets/Scripts/GestureScript.cs" Line="140" Column="2" />
-      <File FileName="Assets/Scripts/CameraScript.cs" Line="26" Column="36" />
-      <File FileName="Assets/Scripts/ButtonScript.cs" Line="19" Column="21" />
+      <File FileName="Assets/Scripts/CameraScript.cs" Line="50" Column="95" />
+      <File FileName="Assets/Scripts/ButtonScript.cs" Line="52" Column="9" />
+      <File FileName="Assets/Scripts/ControllerScript.cs" Line="169" Column="10" />
+      <File FileName="Assets/Scripts/GestureScript.cs" Line="164" Column="32" />
+      <File FileName="Assets/FingerMenuScript.cs" Line="25" Column="6" />
+      <File FileName="Assets/Scripts/HandmenuScript.cs" Line="16" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

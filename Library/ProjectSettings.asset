@@ -158,7 +158,8 @@ PlayerSettings:
   resolutionScalingMode: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
-  applicationIdentifier: {}
+  applicationIdentifier:
+    Lumin: com.unimelb.argon
   buildNumber: {}
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 16
@@ -301,6 +302,9 @@ PlayerSettings:
     m_Automatic: 1
   - m_BuildTarget: MacStandaloneSupport
     m_APIs: 1100000010000000
+    m_Automatic: 0
+  - m_BuildTarget: LuminSupport
+    m_APIs: 110000000b000000
     m_Automatic: 0
   m_BuildTargetVRSettings:
   - m_BuildTarget: Standalone
@@ -626,7 +630,8 @@ PlayerSettings:
     m_ModelFolderPath: 
     m_PortalFolderPath: 
   luminCert:
-    m_CertPath: 
+    m_CertPath: /Users/mac/Desktop/INFO90003 - Designing novel interaction/Assignments/Assignment
+      3 /Argon/argon2.cert
     m_SignPackage: 1
   luminIsChannelApp: 0
   luminVersion:
